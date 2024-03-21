@@ -15,7 +15,6 @@ body {
   line-height: 300%;
   padding: 25px;
   width: auto;
-  border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .logo {
@@ -31,7 +30,6 @@ body {
   background-color: #3b79e3;
   line-height: 10%;
   padding: 25px;
-  border: 1px solid rgba(255, 255, 255, 0.36);
   height: 10px;
 }
 
